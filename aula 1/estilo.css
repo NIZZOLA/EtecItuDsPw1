@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{ color: green;
+	font-style: italic;
+	text-align: center;
+}
+
+h2{ color: red;
+	font-style: bold;
+	text-align: center;
+	font-size:30px;
+}
+
+
+p{color: red;
+font-style: italic;
+text-align: right;
+}
+
+.segundo_paragrafo{color:blue;font-style:bold;
+			font-size:26px;
+					}
+.blackout { color:#000; 
+			}	
+			
+.rosa { color:#93C; }							
