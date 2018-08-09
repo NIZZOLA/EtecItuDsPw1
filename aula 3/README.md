@@ -1,22 +1,22 @@
-#EXERCÍCIO
+<h1>EXERCÍCIO</h1>
 
 Elabore um arquivo Html onde contenha os seguintes elementos
 
 
-##Título1 : ZOOLÓGICO PARTICULAR DO SHEIK MOHAMED  (cor preta, letra 26, negrito)
+<h2>Título1 : ZOOLÓGICO PARTICULAR DO SHEIK MOHAMED  (cor preta, letra 26, negrito) </h2>
 Colocar centralizada a imagem da bandeira da Arábia abaixo do título
 
-###Título 2: Mamíferos 
+<h2>Título 2: Mamíferos </h2>
 Anta, camelo, elefante, gorila, leão, ligre, pantera, tigre
 
-###Título 2: Ofídios
+<h2>Título 2: Ofídios</h2>
 Cobra-coral, naja
 
-###Título 2: Repteis
+<h2>Título 2: Repteis</h2>
 Iguana, jabuti
 
 
-###Observações:
+<h2>Observações:</h2>
 Para o título 2 : tamanho da letra 20, negrito, vermelho
 Para cada animal, colocar como Título 3 o nome do animal, cor verde, negrito, sublinhado, tamanho 16, e abaixo dele a imagem respectiva.
 Copiar da internet um texto descrevendo cada animal com 1 parágrafo, colocar abaixo da imagem.
