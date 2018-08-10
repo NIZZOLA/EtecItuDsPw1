@@ -19,7 +19,9 @@ Iguana, jabuti
 <h2>Observações:</h2>
 Para o título 2 : tamanho da letra 20, negrito, vermelho
 Para cada animal, colocar como Título 3 o nome do animal, cor verde, negrito, sublinhado, tamanho 16, e abaixo dele a imagem respectiva.
-Copiar da internet um texto descrevendo cada animal com 1 parágrafo, colocar abaixo da imagem.
+Copiar da internet (Wikipedia) um texto descrevendo cada animal com 1 parágrafo, colocar abaixo da imagem.
+Abaixo deste texto, colocar um link para a fonte de onde foi retirado este parágrafo (Wikipedia) apontando para a página específica daquele animal,
+ com tamanho 16, letra Azul padrão do link.
 
 
 As imagens deverão ser enviadas juntamente com o arquivo HTML e CSS num arquivo ZIP.
